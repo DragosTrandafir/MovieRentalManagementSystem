@@ -1,6 +1,8 @@
 # MovieRentalManagementSystem
 Designing a movie rental management system that can handle different types of movies.
 
+TO RUN THE PROJECT, create a project in a C++ IDE, I recommend Visual Studio Community or C Lion. Copy all the headers (.h) ,cpp (.cpp) files and after that run the main.cpp.
+
 Requirement: 
 
 Design a Movie Rental Management System that can handle different types of Movies. 
